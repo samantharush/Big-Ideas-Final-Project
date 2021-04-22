@@ -2,7 +2,7 @@
 
 ## Team
 
-team name---
+Happy Earth Day
 
 ## Team Members
 
@@ -27,7 +27,7 @@ Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2
 
 ## Abstract
 
-The goal of this project is to find the best neighborhood in Pittsburgh. We will do this by using three datasets: major arrests, school enrollment, and parks.The combination of our personal findings will amount to one metric for determining best.The combination of our personal findings will combine into one metric for determining best. By our definition, best is going to mean a neighborhood that has a low crime rate,  high school enrollment, as well as an abundant amount of parks, which our individual datasets reflect that. 
+The goal of this project is to find the best neighborhood in Pittsburgh. We will do this by using three datasets: major arrests, school enrollment, and parks. The combination of our personal findings will amount to one metric for determining best.The combination of our personal findings will combine into one metric for determining best. By our definition, best is going to mean a neighborhood that has a low crime rate,  high school enrollment, as well as an abundant amount of parks, which our individual datasets reflect that. 
 
 Combining the datasets using pandas and applying the metric we created, we found that Squirrel Hill North is the best neighborhood in Pittsburgh. 
 
